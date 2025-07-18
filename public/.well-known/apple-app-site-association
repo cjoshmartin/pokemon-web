@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        details: [
+
+            {
+                appID: "HJXLN2SCZS.com.cjoshmartin.pokemon",
+                path: ["/pokemon/*"]
+            }
+        ]
+    }
+}
